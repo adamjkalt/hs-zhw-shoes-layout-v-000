@@ -36,3 +36,8 @@
 clear: both;
 display: inline;
 }
+
+.row:after { 
+clear: both;
+display: inline;
+}
