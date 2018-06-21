@@ -44,4 +44,5 @@ display: block;
 
 [class*="col-"]{
   float:left
+  margin:left
 }
