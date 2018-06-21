@@ -29,7 +29,7 @@
 }
 
 .col-8{
-  width: 64%
+  width: 62%
 }
 
 .row{
@@ -41,3 +41,5 @@ display: block;
 clear: both;
 display: block;
 }
+
+[class*="col-"]
