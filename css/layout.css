@@ -42,4 +42,6 @@ clear: both;
 display: block;
 }
 
-[class*="col-"]
+[class*="col-"]{
+  float:left
+}
