@@ -34,10 +34,10 @@
 
 .row{
 clear: both;
-display: inline;
+display: block;
 }
 
-.row:after { 
+.row:after {
 clear: both;
 display: inline;
 }
